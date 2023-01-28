@@ -1,6 +1,6 @@
 # Projet WiresharkBis - Description 
-## JOACHIM  Julien
-## SOARES Robin
+## JOACHIM  Julien @Soonies
+## SOARES Robin @srsrb
 
 Lien dépot github : https://github.com/Soonies/WireSharkBis
 
